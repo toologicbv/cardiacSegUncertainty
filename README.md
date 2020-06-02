@@ -1,4 +1,4 @@
-# Automatic segmentation and detection of segmentation inaccuracies in cardiac MRI using prediction uncertainties
+# Automatic segmentation with detection of local segmentation failures in cardiac MRIs
 
 ## Evaluation steps
 

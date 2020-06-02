@@ -1,0 +1,4 @@
+src_root_dir: '~/expers/'
+umap_dir: 'umaps'
+pred_labels_dir: 'pred_labels'
+figure_path: 'figures'

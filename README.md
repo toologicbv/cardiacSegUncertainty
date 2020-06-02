@@ -1,9 +1,5 @@
 # Automatic segmentation and detection of segmentation inaccuracies in cardiac MRI using prediction uncertainties
 
-## Under construction - super-resolution - segmentation
-Try to train a segmentation model that can segment these high resolution (z-axis) cardiac MR volumes.
-
-
 ## Evaluation steps
 
 ### Train MC model (for ACDC or ARVC dataset)
